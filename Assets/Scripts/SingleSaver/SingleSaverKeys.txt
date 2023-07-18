@@ -1,0 +1,8 @@
+Don`t change anything inside of this file, use methods instead!
+
+Key name: intData, data type: int
+Key name: floatData, data type: float
+Key name: stringData, data type: string
+Key name: vector2Data, data type: Vector2
+Key name: vector3Data, data type: Vector3
+Key name: listStringData, data type: List<string>
